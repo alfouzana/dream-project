@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/user/public_html/dream-project
+    - export DEPLOYPATH=/home/econabdu@c06/public_html/dream-project
     - /bin/cp * $DEPLOYPATH
     
